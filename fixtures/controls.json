@@ -1,0 +1,24 @@
+{
+  "margins": {
+    "floor": {
+      "F1": 80,
+      "F2": 20
+    },
+    "time_band": {
+      "day": 50,
+      "evening": 50
+    }
+  },
+  "tolerance": 1e-09,
+  "max_iterations": 1000,
+  "weight_cap": null,
+  "bootstrap_repeats": 200,
+  "seed": 10205,
+  "outcomes": [
+    "duration",
+    "intent"
+  ],
+  "groups": [
+    "family"
+  ]
+}
